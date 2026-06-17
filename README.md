@@ -1,5 +1,4 @@
 <div align="center">
-
 # ⚛️ Alenqo — Quantum Machine Learning 3D Universe
 
 <p>
