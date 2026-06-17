@@ -1,7 +1,6 @@
 # Alenqo 🌐
 3D Quantum ML Platform — Qubits, Bloch Sphere, VQC, Tensor Networks &amp; more | alenqo.ir
 
-```markdown
 <div align="center">
 
 <img src="https://img.shields.io/badge/⚛️-Alenqo-10b981?style=for-the-badge&logoColor=white" alt="Alenqo" width="200"/>
@@ -87,34 +86,23 @@ Alenqo is a **bilingual (EN/FA) interactive 3D platform** that transforms comple
 
 ## 📊 QML Concepts Covered
 
-```
-    Quantum Computing          Machine Learning
-    ─────────────────         ──────────────
-    • Qubits & Superposition   • Classification
-    • Quantum Gates (X,Y,Z,H)  • Loss Functions
-    • Entanglement & Bell      • Gradient Descent
-    • VQC / QNN               • Optimizers
-    • Quantum Kernels          • SVMs
-    • Tensor Networks          • Neural Networks
-    • Noise Models (NISQ)      • Feature Maps
-    
-            ╲              ╱
-             ╲            ╱
-              ╲          ╱
-           ⚛️  Quantum ML  ⚛️
-```
+| Quantum Computing | Machine Learning |
+|-------------------|------------------|
+| Qubits & Superposition | Classification |
+| Quantum Gates (X,Y,Z,H) | Loss Functions |
+| Entanglement & Bell | Gradient Descent |
+| VQC / QNN | Optimizers |
+| Quantum Kernels | SVMs |
+| Tensor Networks | Neural Networks |
+| Noise Models (NISQ) | Feature Maps |
 
 ---
 
 ## 🚀 Live Demo
 
-<div align="center">
-
 ### 👉 **[alenqo.ir](https://alenqo.ir)**
 
 *Open right now — no installation needed!*
-
-</div>
 
 ---
 
@@ -134,18 +122,11 @@ If you find Alenqo useful or inspiring, please star this repo and share with fri
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════╗
-║                                          ║
-║   ⚛️  Built for the quantum community    ║
-║   by Alireza Rezaei (@Alirzzoo)         ║
-║                                          ║
-║   🌐 alenqo.ir                           ║
-║                                          ║
-╚══════════════════════════════════════════╝
-```
+**⚛️ Built for the quantum community**  
+**by Alireza Rezaei ([@Alirzzoo](https://github.com/Alirzzoo))**
+
+**🌐 [alenqo.ir](https://alenqo.ir)**
 
 <sub>© 2026 Alenqo. All rights reserved.</sub>
 
 </div>
-```
