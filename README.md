@@ -17,8 +17,6 @@
 
 <h3><em>"Where Quantum Physics meets Machine Learning — in 3D."</em></h3>
 
-</div>
-
 ---
 
 ## 🌌 What is Alenqo?
@@ -80,7 +78,7 @@ Alenqo is a **bilingual (EN/FA) interactive 3D platform** that transforms comple
 ## 📊 QML Concepts Covered
 
 | Quantum Computing | Machine Learning |
-|-------------------|------------------|
+|:-----------------:|:----------------:|
 | Qubits & Superposition | Classification |
 | Quantum Gates (X,Y,Z,H) | Loss Functions |
 | Entanglement & Bell | Gradient Descent |
@@ -99,12 +97,6 @@ Alenqo is a **bilingual (EN/FA) interactive 3D platform** that transforms comple
 
 ---
 
-## 📸 Gallery
-
-> *Screenshots coming soon! Visit [alenqo.ir](https://alenqo.ir) to see the live platform.*
-
----
-
 ## ⭐ Support the Project
 
 If you find Alenqo useful or inspiring, please star this repo and share with friends interested in quantum computing!
@@ -112,8 +104,6 @@ If you find Alenqo useful or inspiring, please star this repo and share with fri
 👉 **[Visit alenqo.ir](https://alenqo.ir)**
 
 ---
-
-<div align="center">
 
 **⚛️ Built for the quantum community**  
 **by Alireza Rezaei ([@Alirzzoo](https://github.com/Alirzzoo))**
