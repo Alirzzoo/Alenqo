@@ -1,3 +1,7 @@
+<div align="center">
+
+<img src="https://img.shields.io/badge/⚛️-Alenqo-10b981?style=for-the-badge&logoColor=white" alt="Alenqo" width="200"/>
+
 # ⚛️ Alenqo — Quantum Machine Learning 3D Universe
 
 <p>
